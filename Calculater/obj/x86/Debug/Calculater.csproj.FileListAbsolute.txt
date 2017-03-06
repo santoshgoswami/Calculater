@@ -1,0 +1,8 @@
+c:\users\manoj kumar giri\documents\visual studio 2010\Projects\Calculater\Calculater\bin\Debug\Calculater.exe
+c:\users\manoj kumar giri\documents\visual studio 2010\Projects\Calculater\Calculater\bin\Debug\Calculater.pdb
+c:\users\manoj kumar giri\documents\visual studio 2010\Projects\Calculater\Calculater\obj\x86\Debug\Calculater.Form1.resources
+c:\users\manoj kumar giri\documents\visual studio 2010\Projects\Calculater\Calculater\obj\x86\Debug\Calculater.Properties.Resources.resources
+c:\users\manoj kumar giri\documents\visual studio 2010\Projects\Calculater\Calculater\obj\x86\Debug\Calculater.csproj.GenerateResource.Cache
+c:\users\manoj kumar giri\documents\visual studio 2010\Projects\Calculater\Calculater\obj\x86\Debug\Calculater.exe
+c:\users\manoj kumar giri\documents\visual studio 2010\Projects\Calculater\Calculater\obj\x86\Debug\Calculater.pdb
+C:\Users\Manoj Kumar Giri\documents\visual studio 2010\Projects\Calculater\Calculater\obj\x86\Debug\Calculater.csprojResolveAssemblyReference.cache
